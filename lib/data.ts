@@ -1,8 +1,8 @@
 export const data = {
   products: [
     {
-      name: 'Fit GRATIS',
-      slug: 'FIt GRATIS',
+      name: 'Fit_GRATIS',
+      slug: 'FIt_GRATIS',
       category: 'freeshirt',
       image: '/images/shirt.jpg',
       price: 80,
@@ -16,7 +16,7 @@ export const data = {
     },
     {
       name: 'Comfort Bliss',
-      slug: 'Comfort Bliss',
+      slug: 'Comfort_Bliss',
       category: 'casualwear',
       image: '/images/casual_shirt.jpg',
       price: 65,
@@ -30,7 +30,7 @@ export const data = {
     },
     {
       name: 'Active Flex',
-      slug: 'Active Flex',
+      slug: 'Active_Flex',
       category: 'sportswear',
       image: '/images/casual_shirt.jpg',
       price: 90,
@@ -44,7 +44,7 @@ export const data = {
     },
     {
       name: 'Chic Elegance',
-      slug: 'Chic Elegance',
+      slug: 'ChicElegance',
       category: 'formalwear',
       image: '/images/casual_shirt.jpg',
       price: 120,
@@ -58,7 +58,7 @@ export const data = {
     },
     {
       name: 'Cozy Comfort',
-      slug: 'Cozy Comfort',
+      slug: 'CozyComfort',
       category: 'loungewear',
       image: '/images/casual_shirt.jpg',
       price: 75,
@@ -72,7 +72,7 @@ export const data = {
     },
     {
       name: 'Urban Swagger',
-      slug: 'Urban Swagger',
+      slug: 'UrbanSwagger',
       category: 'streetwear',
       image: '/images/casual_shirt.jpg',
       price: 110,
@@ -86,7 +86,7 @@ export const data = {
     },
     {
       name: 'Vintage Charm',
-      slug: 'Vintage Charm',
+      slug: 'VintageCharm',
       category: 'retrowear',
       image: '/images/casual_shirt.jpg',
       price: 95,
@@ -100,7 +100,7 @@ export const data = {
     },
     {
       name: 'Dapper Denim',
-      slug: 'Dapper Denim',
+      slug: 'DapperDenim',
       category: 'denimwear',
       image: '/images/casual_shirt.jpg',
       price: 85,
@@ -114,7 +114,7 @@ export const data = {
     },
     {
       name: 'Floral Fantasy',
-      slug: 'Floral Fantasy',
+      slug: 'FloralFantasy',
       category: 'summerwear',
       image: '/images/casual_shirt.jpg',
       price: 70,
@@ -128,7 +128,7 @@ export const data = {
     },
     {
       name: 'Tech Trend',
-      slug: 'Tech Trend',
+      slug: 'TechTrend',
       category: 'techwear',
       image: '/images/casual_shirt.jpg',
       price: 100,
